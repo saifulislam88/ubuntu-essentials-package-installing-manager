@@ -1,5 +1,5 @@
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Ubuntu-essentials-package-manager</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
