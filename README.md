@@ -1,5 +1,5 @@
 
-  <h3 align="center">**Ubuntu-essentials-package-manager**</h3>
+  <h3 align="center">Ubuntu-essentials-package-manager</h3>
 
 
 <!-- Host Configuration Script -->
