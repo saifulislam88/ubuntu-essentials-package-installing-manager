@@ -3,7 +3,7 @@
 
 
 <!-- Host configuration script -->
-## S/N#1 Host configuration script | hostconfig.sh
+## 1# Host configuration script | hostconfig.sh
 This Bash script, hostconfig.sh, provides a simple and interactive way to configure the hostname and host file entries on Linux systems. It offers options to set the hostname, add new host file entries, modify existing entries, and view the current host file contents.
 
 **Features:**
