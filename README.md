@@ -2,8 +2,8 @@
   <h3 align="center">Ubuntu-essentials-package-manager</h3>
 
 
-<!-- Host Configuration Script -->
-## Host Configuration Script | hostconfig.sh
+<!-- Host configuration script -->
+## Host configuration script | Hostconfig.sh
 This Bash script, hostconfig.sh, provides a simple and interactive way to configure the hostname and host file entries on Linux systems. It offers options to set the hostname, add new host file entries, modify existing entries, and view the current host file contents.
 
 **Features:**
