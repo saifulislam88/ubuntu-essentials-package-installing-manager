@@ -10,15 +10,17 @@ Features:
 * Set hostname interactively
 * Add multiple host file entries at once
 * Modify existing host file entries
-View current host file contents
-Easy to use and understand
+* View current host file contents
+* Easy to use and understand
+
 Usage:
-Run the script hostconfig.sh.
-Follow the on-screen prompts to choose the desired action.
-Input the required information as prompted.
+* Run the script hostconfig.sh.
+* Follow the on-screen prompts to choose the desired action.
+* Input the required information as prompted.
+
 Requirements:
-Bash shell
-Linux operating system
+* Bash shell
+* Linux operating system
 
 
 
