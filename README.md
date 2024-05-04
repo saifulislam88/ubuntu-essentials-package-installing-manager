@@ -22,7 +22,8 @@ This Bash script, hostconfig.sh, provides a simple and interactive way to config
 * Bash shell
 * Linux operating system
 
-![image](https://github.com/saifulislam88/install_ubuntu_basic_packages/assets/68442870/488fc4c3-6a5d-4eb3-a6e9-0d00384bf389)
+![image](https://github.com/saifulislam88/install_ubuntu_basic_packages/assets/68442870/18409fa6-d8f4-4015-b3d4-c986e4ae7e98)
+
 
 
 
