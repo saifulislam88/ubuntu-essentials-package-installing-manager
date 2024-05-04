@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------
-#hostconfig.sh
+hostconfig.sh
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 **Host Configuration Script:**
 This Bash script, hostconfig.sh, provides a simple and interactive way to configure the hostname and host file entries on Linux systems. 
@@ -22,9 +22,9 @@ Bash shell
 Linux operating system
 
 
-#-------------------------------------------------------------------------------------------------------------------------------------------------------
-#Ubuntu Essentials Package Manager | Install-ubuntu-essentials-packages.sh
-#-------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+Ubuntu Essentials Package Manager | Install-ubuntu-essentials-packages.sh
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 This Bash script, install-ubuntu-essentials-packages.sh, is a comprehensive package management tool tailored for Ubuntu servers. With over 9 years of professional experience in Ubuntu administration, I've curated a selection of essential packages commonly used for server management and maintenance tasks.
 
 **Features:**
