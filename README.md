@@ -47,9 +47,9 @@ This Bash script, **install-ubuntu-essentials-packages.sh**, is a comprehensive 
 
 
 **Suggestions:**
-Customize the package list based on your specific requirements and preferences.
-Regularly update the script to include new packages or remove deprecated ones.
-Use in conjunction with other server management practices for a robust and efficient Ubuntu server environment.
+* Customize the package list based on your specific requirements and preferences.
+* Regularly update the script to include new packages or remove deprecated ones.
+* Use in conjunction with other server management practices for a robust and efficient Ubuntu server environment.
 
 **Disclaimer:**
 This script is provided as-is and without warranty. Use at your own risk. Always review and understand the actions performed by the script before execution.
