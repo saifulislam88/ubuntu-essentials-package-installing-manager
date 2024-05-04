@@ -27,7 +27,7 @@ This Bash script, hostconfig.sh, provides a simple and interactive way to config
 
 
 <!-- Ubuntu Essentials Package Manager -->
-## Ubuntu Essentials Package Manager | ubuntu-essentials-package-manager.sh
+## SH1#. Ubuntu Essentials Package Manager | ubuntu-essentials-package-manager.sh
 
 This Bash script, **install-ubuntu-essentials-packages.sh**, is a comprehensive package management tool tailored for Ubuntu servers. With over 9 years of professional experience in Ubuntu administration, I've curated a selection of essential packages commonly used for server management and maintenance tasks.
 
