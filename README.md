@@ -40,8 +40,8 @@ This Bash script, **install-ubuntu-essentials-packages.sh**, is a comprehensive 
 
 **Usage:**
 * 1.Download the install-ubuntu-essentials-packages.sh script to your Ubuntu server.
-* 2.Make the script executable with the command: chmod +x install-ubuntu-essentials-packages.sh.
-* 3.Execute the script as root or with sudo privileges: sudo ./install-ubuntu-essentials-packages.sh.
+* 2.Make the script executable with the command: **chmod +x install-ubuntu-essentials-packages.sh**.
+* 3.Execute the script as root or with sudo privileges: **sudo ./install-ubuntu-essentials-packages.sh**.
 * 4.Sit back and relax as the script installs the essential packages for Ubuntu server management.
 
 
