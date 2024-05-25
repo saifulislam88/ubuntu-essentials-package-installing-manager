@@ -42,4 +42,3 @@ timedatectl
 
 echo "Note: Please allow UDP/123 Ports for external networks in the system firewall & cloud security group if it is configured in server mode."
 
-mSi
