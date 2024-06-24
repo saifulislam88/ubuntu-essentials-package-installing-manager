@@ -46,5 +46,6 @@ sudo systemctl status rc-local
 # Note:
 # Ensure this script has execution permissions before running it.
 # You can set the execution permission using the following command:
-# chmod +x setup-rc-local.sh
+# chmod +x adding-static-route-setup-rc-local.sh
+# system `reboot` must
 
