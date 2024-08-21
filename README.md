@@ -58,3 +58,6 @@ This script is provided as-is and without warranty. Use at your own risk. Always
 Your feedback and contributions are welcome! Feel free to suggest improvements or additional packages via GitHub pull requests or issues.
 
 
+## Download `adding-static-route-setup-rc-local.sh`
+`curl -o adding-static-route-setup-rc-local.sh https://raw.githubusercontent.com/saifulislam88/ubuntu-essentials-package-installing-manager/main/adding-static-route-setup-rc-local.sh`
+
